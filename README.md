@@ -8,7 +8,7 @@
     </p>
     <p>
     </p>
-    <a href="#"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
+    <a href="http://arxiv.org/abs/2601.01461"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
     <a href="https://huggingface.co/YuCeong-May/MLC-SLM/"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="HF-model"></a>
     <a href="https://github.com/FireRedTeam/FireRedTTS"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 </div>
