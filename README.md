@@ -88,7 +88,7 @@ If you find this work useful, please cite our paper as follows:
 ```bibtex
 @article{mlcslm2026bridging,
   title   = {Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR},
-  author  = {Yu, Ceong-May and others},
+  author  = {Yuxiang Mei, Dongxing Xu, Jiaen Liang and Yanhua Long},
   journal = {arXiv preprint arXiv:2601.01461},
   year    = {2026}
 }
