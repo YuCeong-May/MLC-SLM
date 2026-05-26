@@ -6,13 +6,8 @@
   </p>
   <p>
     <b>Yuxiang Mei, Dongxing Xu, Jiaen Liang, Yanhua Long</b><br>
-    <i>SHNU Team (MLC-SLM Challenge)</i>
   </p>
-  <p>
-    <b>MLC-SLM is an extension of:</b><br>
-    <em>SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge</em>
-  </p>
-  <p><b>ICASSP 2026 (ArXiv)</b></p>
+  <p><b>ICASSP 2026 </b></p>
 
   <a href="http://arxiv.org/abs/2601.01461"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
   <a href="https://huggingface.co/YuCeong-May/MLC-SLM/"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="HF-model"></a>
