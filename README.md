@@ -4,14 +4,18 @@
     Official PyTorch code for paper <br>
     <b><em>BRIDGING THE GAP: A COMPARATIVE EXPLORATION OF SPEECH-LLM AND END-TO-END ARCHITECTURE FOR MULTILINGUAL CONVERSATIONAL ASR</em></b>
   </p>
-  <p>
-    <b>Yuxiang Mei, Dongxing Xu, Jiaen Liang, Yanhua Long</b><br>
-  </p>
-  <p><b>ICASSP 2026 </b></p>
 
+  <a href="https://ieeexplore.ieee.org/document/10970280"><img src="https://img.shields.io/badge/ICASSP-2026-8A2BE2" alt="icassp"></a>
   <a href="http://arxiv.org/abs/2601.01461"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
   <a href="https://huggingface.co/YuCeong-May/MLC-SLM/"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="HF-model"></a>
   <a href="https://github.com/FireRedTeam/FireRedTTS"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
+
+  <p><br>
+    <b>Yuxiang Mei<sup>1</sup>, Dongxing Xu<sup>1</sup>, Jiaen Liang<sup>1</sup>, Yanhua Long<sup>1</sup></b><br>
+    <sup>1</sup><a href="https://www.shnu.edu.cn/">Shanghai Normal University</a>, China
+  </p>
+
+  <p><b>ICASSP 2026</b></p>
 </div>
 
 # Dataset
