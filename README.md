@@ -86,9 +86,20 @@ We release several checkpoints for reproduction and further research:
 
 All checkpoints can be found at: [Hugging Face – MLC-SLM](https://huggingface.co/YuCeong-May/MLC-SLM/tree/main)
 
+# Publication
+
+This repository is built as an extension of the following MLC-SLM 2025 workshop paper:
+
+- **Title:** SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge  
+- **Authors:** Yuxiang Mei, Yuang Zheng, Dongxing Xu, Yanhua Long  
+- **Venue:** Proceedings of the Workshop on Multilingual Conversational Speech Language Model (MLC-SLM), 2025  
+- **Pages:** 38--42  
+- **DOI:** [10.21437/MLCSLM.2025-9](https://doi.org/10.21437/MLCSLM.2025-9)  
+- **Paper Link:** https://www.isca-archive.org/mlcslm_2025/mei25_mlcslm.html
+
 # Citation
 
-If you find this work useful, please cite our ICASSP 2026 paper as follows:
+If you find this work useful, please cite our paper and the related MLC-SLM workshop paper as follows:
 
 ```bibtex
 @article{mlcslm2026bridging,
@@ -98,4 +109,12 @@ If you find this work useful, please cite our ICASSP 2026 paper as follows:
   year    = {2026}
 }
 
+@inproceedings{mei25_mlcslm,
+  title     = {SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge},
+  author    = {Mei, Yuxiang and Zheng, Yuang and Xu, Dongxing and Long, Yanhua},
+  booktitle = {Proceedings of the Workshop on Multilingual Conversational Speech Language Model (MLC-SLM)},
+  pages     = {38--42},
+  year      = {2025},
+  doi       = {10.21437/MLCSLM.2025-9}
+}
 ```
