@@ -8,11 +8,13 @@
   <a href="https://ieeexplore.ieee.org/document/10970280"><img src="https://img.shields.io/badge/ICASSP-2026-8A2BE2" alt="icassp"></a>
   <a href="http://arxiv.org/abs/2601.01461"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
   <a href="https://huggingface.co/YuCeong-May/MLC-SLM/"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="HF-model"></a>
-  <a href="https://github.com/FireRedTeam/FireRedTTS"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
+  <a href="https://github.com/YuCeong-May/MLC-SLM"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 
   <p><br>
-    <b>Yuxiang Mei<sup>1</sup>, Dongxing Xu<sup>1</sup>, Jiaen Liang<sup>1</sup>, Yanhua Long<sup>1</sup></b><br>
-    <sup>1</sup><a href="https://www.shnu.edu.cn/">Shanghai Normal University</a>, China
+    <b>Yuxiang Mei<sup>1</sup>, Dongxing Xu<sup>2</sup>, Jiaen Liang<sup>2</sup>, Yanhua Long<sup>1, 2, *</sup></b><br>
+    <sup>1</sup><a href="https://www.shnu.edu.cn/">Shanghai Normal University</a>, Shanghai, China
+    <sup>2</sup><a href="https://www.shnu.edu.cn/">Unisound AI Technology Co., Ltd.,</a>, Beijing, China
+    <sup>*</sup><a href="#">Corresponding author</a>
   </p>
 
   <p><b>ICASSP 2026</b></p>
