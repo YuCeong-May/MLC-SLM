@@ -12,9 +12,9 @@
 
   <p><br>
     <b>Yuxiang Mei<sup>1</sup>, Dongxing Xu<sup>2</sup>, Jiaen Liang<sup>2</sup>, Yanhua Long<sup>1, 2, *</sup></b><br>
-    <sup>1</sup><a href="https://www.shnu.edu.cn/">Shanghai Normal University</a>, Shanghai, China
-    <sup>2</sup><a href="https://www.shnu.edu.cn/">Unisound AI Technology Co., Ltd.,</a>, Beijing, China
-    <sup>*</sup><a href="#">Corresponding author</a>
+    <sup>1</sup><a href="https://www.shnu.edu.cn/">Shanghai Normal University</a>, Shanghai, China<br>
+    <sup>2</sup><a href="https://www.shnu.edu.cn/">Unisound AI Technology Co., Ltd.,</a>, Beijing, China<br>
+    <sup>*</sup><a>Corresponding author</a>
   </p>
 
   <p><b>ICASSP 2026</b></p>
