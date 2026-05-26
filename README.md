@@ -1,16 +1,22 @@
 <div align="center">
-    <h1>
-  MLC-SLM
-    </h1>
-    <p>
+  <h1>MLC-SLM</h1>
+  <p>
     Official PyTorch code for paper <br>
     <b><em>BRIDGING THE GAP: A COMPARATIVE EXPLORATION OF SPEECH-LLM AND END-TO-END ARCHITECTURE FOR MULTILINGUAL CONVERSATIONAL ASR</em></b>
-    </p>
-    <p>
-    </p>
-    <a href="http://arxiv.org/abs/2601.01461"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
-    <a href="https://huggingface.co/YuCeong-May/MLC-SLM/"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="HF-model"></a>
-    <a href="https://github.com/FireRedTeam/FireRedTTS"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
+  </p>
+  <p>
+    <b>Yuxiang Mei, Dongxing Xu, Jiaen Liang, Yanhua Long</b><br>
+    <i>SHNU Team (MLC-SLM Challenge)</i>
+  </p>
+  <p>
+    <b>MLC-SLM is an extension of:</b><br>
+    <em>SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge</em>
+  </p>
+  <p><b>ICASSP 2026 (ArXiv)</b></p>
+
+  <a href="http://arxiv.org/abs/2601.01461"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
+  <a href="https://huggingface.co/YuCeong-May/MLC-SLM/"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="HF-model"></a>
+  <a href="https://github.com/FireRedTeam/FireRedTTS"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 </div>
 
 # Dataset
@@ -81,9 +87,20 @@ We release several checkpoints for reproduction and further research:
 
 All checkpoints can be found at: [Hugging Face – MLC-SLM](https://huggingface.co/YuCeong-May/MLC-SLM/tree/main)
 
+# Publication
+
+This repository is built as an extension of the following MLC-SLM 2025 workshop paper:
+
+- **Title:** SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge  
+- **Authors:** Yuxiang Mei, Yuang Zheng, Dongxing Xu, Yanhua Long  
+- **Venue:** Proceedings of the Workshop on Multilingual Conversational Speech Language Model (MLC-SLM), 2025  
+- **Pages:** 38--42  
+- **DOI:** [10.21437/MLCSLM.2025-9](https://doi.org/10.21437/MLCSLM.2025-9)  
+- **Paper Link:** https://www.isca-archive.org/mlcslm_2025/mei25_mlcslm.html
+
 # Citation
 
-If you find this work useful, please cite our paper as follows:
+If you find this work useful, please cite our paper and the related MLC-SLM workshop paper as follows:
 
 ```bibtex
 @article{mlcslm2026bridging,
@@ -91,5 +108,14 @@ If you find this work useful, please cite our paper as follows:
   author  = {Yuxiang Mei, Dongxing Xu, Jiaen Liang and Yanhua Long},
   journal = {arXiv preprint arXiv:2601.01461},
   year    = {2026}
+}
+
+@inproceedings{mei25_mlcslm,
+  title     = {SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge},
+  author    = {Mei, Yuxiang and Zheng, Yuang and Xu, Dongxing and Long, Yanhua},
+  booktitle = {Proceedings of the Workshop on Multilingual Conversational Speech Language Model (MLC-SLM)},
+  pages     = {38--42},
+  year      = {2025},
+  doi       = {10.21437/MLCSLM.2025-9}
 }
 ```
