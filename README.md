@@ -105,10 +105,12 @@ If you find this work useful, please cite our paper and the related MLC-SLM work
 
 ```bibtex
 @article{mlcslm2026bridging,
-  title   = {Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR},
-  author  = {Yuxiang Mei, Dongxing Xu, Jiaen Liang and Yanhua Long},
-  journal = {arXiv preprint arXiv:2601.01461},
-  year    = {2026}
+  title     = {Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR},
+  author    = {Yuxiang Mei, Dongxing Xu, Jiaen Liang and Yanhua Long},
+  booktitle = {ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {18797-18801},
+  year      = {2026},
+  doi       = {10.1109/ICASSP55912.2026.11464860}}
 }
 
 @inproceedings{mei25_mlcslm,
