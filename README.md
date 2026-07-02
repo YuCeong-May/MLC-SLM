@@ -104,13 +104,13 @@ This repository is built as an extension of the following MLC-SLM 2025 workshop 
 If you find this work useful, please cite our paper and the related MLC-SLM workshop paper as follows:
 
 ```bibtex
-@article{mlcslm2026bridging,
+@inproceedings{mlcslm2026bridging,
   title     = {Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR},
   author    = {Yuxiang Mei, Dongxing Xu, Jiaen Liang and Yanhua Long},
-  booktitle = {ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  booktitle = {Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)},
   pages     = {18797-18801},
   year      = {2026},
-  doi       = {10.1109/ICASSP55912.2026.11464860}}
+  doi       = {10.1109/ICASSP55912.2026.11464860}
 }
 
 @inproceedings{mei25_mlcslm,
