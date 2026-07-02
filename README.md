@@ -115,7 +115,7 @@ If you find this work useful, please cite our paper and the related MLC-SLM work
 
 @inproceedings{mei25_mlcslm,
   title     = {SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge},
-  author    = {Mei, Yuxiang and Zheng, Yuang and Xu, Dongxing and Long, Yanhua},
+  author    = {Yuxiang Mei and Yuang Zheng and Dongxing Xu and Yanhua Long},
   booktitle = {Proceedings of the Workshop on Multilingual Conversational Speech Language Model (MLC-SLM)},
   pages     = {38--42},
   year      = {2025},
